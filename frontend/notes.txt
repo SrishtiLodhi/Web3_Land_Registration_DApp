@@ -1,0 +1,118 @@
++-------------------+
+|     Platform      |
++-------------------+
+          |
+          | (1. User Registration)
+          v
++-------------------+
+|                   |
+|   User Registers  |
+|                   |
++-------------------+
+          |
+          | (2. Owner Operations)
+          v
++-------------------+
+|                   |
+|  Owner Adds       |
+| Notary, SRO,      |
+| Land Revenue      |
+|                   |
++-------------------+
+          |
+          | (3. Land Record Creation)
+          v
++-------------------+
+|                   |
+|   Owner Creates   |
+|   Land Record     |
+|                   |
++-------------------+
+          |
+          | (4. Property Sale)
+          v
++-------------------+
+|                   |
+|  Owner Makes      |
+|  Land Available   |
+|                   |
++-------------------+
+          |
+          | (5. Buyer Requests)
+          v
++-------------------+
+|                   |
+|  Buyer Requests   |
+|  to Purchase      |
+|                   |
++-------------------+
+          |
+          | (6. Owner Accepts/Rejects)
+          v
++-------------------+
+|                   |
+|  Owner Accepts/   |
+|  Rejects Request  |
+|                   |
++-------------------+
+          |
+          | (7. Buyer Payments)
+          v
++-------------------+
+|                   |
+|  Buyer Pays Fees   |
+|  (Stamp Duty, SRO,|
+|  Land Revenue)    |
+|                   |
++-------------------+
+          |
+          | (8. Property Transfer)
+          v
++-------------------+
+|                   |
+|  Ownership        |
+|  Transferred      |
+|                   |
++-------------------+
+
+
+
+1. Manager Menu:
+    1.1 Land Offices:
+        1.1.1 Add Notary
+        1.1.2 Add SRO
+        1.1.3 Add Land Revenue Office
+
+    1.2 Land Records:
+        1.2.1 Create Land Record
+
+2. User Menu:
+    2.1 Account:
+        2.1.1 Register User
+        2.1.2 Login
+
+    2.2 Property Transactions:
+        2.2.1 View Sale Properties
+        2.2.2 View Owned Properties
+        2.2.3 View Pending Requests
+
+    2.3 Buyer Actions:
+        2.3.1 Buy Property
+        2.3.2 Pay Stamp Duty
+        2.3.3 Pay SRO Fees
+        2.3.4 Pay Land Revenue Fees
+
+    2.4 Seller Actions:
+        2.4.1 Make Land Available
+        2.4.2 Accept Request
+        2.4.3 Reject Request
+        2.4.4 Pay Stamp Duty (if the property is sold)
+
+3. General Menu:
+    3.1 Property Information:
+        3.1.1 Check Property Details
+        3.1.2 Check Previous Owners
+        3.1.3 Check All Properties
+
+    3.2 System Information:
+        3.2.1 Check Manager
