@@ -1,39 +1,32 @@
-<h1>Real Estate Transaction Management System</h1>
-    <p>Welcome to the Real Estate Transaction Management System (RETS). RETS is a comprehensive platform designed to ensure the authenticity of information related to real estate transactions, provide a faster, safer, and cheaper means of executing property transactions, and prevent tampering or forging of records linked to the system.</p>
+# Real Estate Transaction System
 
-    <h2>Goals</h2>
-    <ol>
-        <li>Ensure authenticity of information related to real estate transactions.</li>
-        <li>Provide a faster, safer, cheaper means of executing property transactions.</li>
-        <li>Prevent tampering or forging of records linked to the system.</li>
-    </ol>
+This project aims to create a system for managing real estate transactions with a focus on authenticity, efficiency, and security. The system provides a platform for users to execute property transactions in a faster, safer, and more cost-effective manner while preventing tampering or forging of records.
 
-    <h2>Features</h2>
-    <ul>
-        <li>User Registration</li>
-        <li>Owner Operations</li>
-        <li>Land Record Creation</li>
-        <li>Property Sale</li>
-        <li>Buyer Requests</li>
-        <li>Owner Accepts/Rejects Requests</li>
-        <li>Buyer Payments</li>
-        <li>Property Transfer</li>
-    </ul>
+## Goals
+1. **Ensure authenticity of information related to real estate transactions.**
+2. **Provide a faster, safer, cheaper means of executing property transactions.**
+3. **Prevent tampering or forging of records linked to the system.**
 
-    <h2>Manager Menu</h2>
-    <ul>
-        <li>Land Offices
-            <ul>
-                <li>Add Notary</li>
-                <li>Add SRO (Sub Registrar Office)</li>
-                <li>Add Land Revenue Office</li>
-            </ul>
-        </li>
-        <li>Land Records
-            <ul>
-                <li>Create Land Record</li>
-            </ul>
-        </li>
-    </ul>
+## Features
+- **User Registration**: Users can create accounts to access the system.
+- **Owner Operations**: Owners can manage their properties and transactions.
+- **Land Record Creation**: Creation of land records with detailed information.
+- **Property Sale**: Owners can list properties for sale.
+- **Buyer Requests**: Buyers can send requests to buy properties.
+- **Owner Accepts/Rejects Requests**: Owners can accept or reject buyer requests.
+- **Buyer Payments**: Buyers can make payments for the properties they intend to buy.
+- **Property Transfer**: The system facilitates the transfer of property ownership.
+
+## Manager Menu
+- **Land Offices**:
+  - **Add Notary**: Add a notary to the system.
+  - **Add SRO (Sub Registrar Office)**: Add a Sub Registrar Office to the system.
+  - **Add Land Revenue Office**: Add a Land Revenue Office to the system.
+- **Land Records**:
+  - **Create Land Record**: Create new land records with detailed information.
+
+## Installation
+1. Clone the repository:
+
 
     
