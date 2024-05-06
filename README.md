@@ -2,6 +2,9 @@
 
 This project aims to create a system for managing real estate transactions with a focus on authenticity, efficiency, and security. The system provides a platform for users to execute property transactions in a faster, safer, and more cost-effective manner while preventing tampering or forging of records.
 
+## Deployed Link
+You can check it out here - [website](land-registration-webapp.vercel.app)
+
 ## Goals
 1. **Ensure authenticity of information related to real estate transactions.**
 2. **Provide a faster, safer, cheaper means of executing property transactions.**
@@ -25,8 +28,7 @@ This project aims to create a system for managing real estate transactions with 
 - **Land Records**:
   - **Create Land Record**: Create new land records with detailed information.
 
-## Installation
-1. Clone the repository:
+
 
 
     
